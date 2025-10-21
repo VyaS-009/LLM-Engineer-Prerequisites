@@ -11,7 +11,6 @@ Every day includes a working deliverable — from a math-backed notebook to an A
 
 **Duration:** 6 Weeks (≈6 days/week)  
 **Goal:** Learn-by-doing • Real-world intuition • Production mindset  
-**Approach:** Every day → one real project → one LinkedIn post  
 
 Each week builds upon the previous, mimicking **startup + enterprise ML workflows**:
 > Math → Python → ML → Deep Learning → NLP → MLOps → Production
@@ -126,7 +125,7 @@ Each week builds upon the previous, mimicking **startup + enterprise ML workflow
 **🧾 Output:**
 - ✅ 3 mini production-grade case studies  
 - ✅ Full ML stack (API, Docker, Monitoring)  
-- ✅ Complete GitHub + LinkedIn documentation trail  
+- ✅ Complete GitHub documentation trail  
 
 ---
 
@@ -135,7 +134,6 @@ Each week builds upon the previous, mimicking **startup + enterprise ML workflow
 ✅ Mastered **Math → Python → ML → DL → NLP → MLOps**  
 ✅ Built **15+ real-world projects**  
 ✅ Deployed **multiple APIs with FastAPI**  
-✅ Published **6 weekly reflections** on LinkedIn  
 ✅ Portfolio that demonstrates *end-to-end applied ML + LLM readiness*
 
 ---
